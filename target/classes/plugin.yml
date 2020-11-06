@@ -1,0 +1,7 @@
+name: Duels
+version: ${project.version}
+main: me.gguurr.duels.Duels
+api-version: 1.16
+
+commands:
+  test: {}
